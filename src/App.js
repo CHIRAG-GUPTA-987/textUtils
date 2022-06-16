@@ -13,7 +13,7 @@ import {
 
 function App() {
   const restStyle = {
-    height: '95vh',
+    height: '93vh',
     overflow: 'auto'
   }
   const [mode, setMode] = useState('light');
