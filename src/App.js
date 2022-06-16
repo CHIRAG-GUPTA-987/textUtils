@@ -15,7 +15,7 @@ function App() {
   const restStyle = {
     height: '93vh',
     overflow: 'auto'
-  }
+  } 
   const [mode, setMode] = useState('light');
   const [alert, setAlert] = useState(null);
   const toggleMode = ()=>{
